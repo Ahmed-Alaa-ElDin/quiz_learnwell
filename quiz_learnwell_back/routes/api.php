@@ -20,5 +20,5 @@ use Illuminate\Support\Facades\Route;
 
 
 Route::get('/',function (){
-    return "Ahmed Alaa";
+    return "Ahmed";
 });
